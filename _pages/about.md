@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-about-me'></span>
 
 I’m Fifth-year PhD student from <a href='https://www.med.tsinghua.edu.cn/en/'>School of Biomedical Engineering</a>, [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Medical Image Analysis and ultrasound microvascular imaging. I have published some papers with total <a href='https://scholar.google.com/citations?user=eazk_70AAAAJ&hl=zh-CN&oi=sra'>google scholar citations <strong><span id='total_cit'>228</span></strong></a>.
 
