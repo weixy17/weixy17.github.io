@@ -16,13 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='-about-me'></span>
-
 I’m Fifth-year PhD student from <a href='https://www.med.tsinghua.edu.cn/en/'>School of Biomedical Engineering</a>, [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Medical Image Analysis and ultrasound microvascular imaging. I have published some papers with total <a href='https://scholar.google.com/citations?user=eazk_70AAAAJ&hl=zh-CN&oi=sra'>google scholar citations <strong><span id='total_cit'>228</span></strong></a>.
 
 I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-0001-9215-5568) of [MUSE Lab](http://muselab-tsinghua.net/) from School of Biomedical Engineering, Tsinghua University.
 
 <span class='anchor' id='-publications'></span>
-
 # 📝 Publications 
 \# co-first author \| \* corresponding author
 
@@ -147,7 +145,6 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-
     *IEEE International Ultrasonics Symposium (IUS) 2022 (Oral)*
 
 <span class='anchor' id='-honors-and-awards'></span>
-
 # 🎖 Honors and Awards
 - *2024* National Scholarship, Ministry of Education of P.R. China
 - *2023* Tsinghua Friends-Chaozhou Talent Scholarship (First Class)
