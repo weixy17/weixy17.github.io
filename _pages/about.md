@@ -154,10 +154,12 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-
 - *2020* Tsinghua Friends - Guangzhou Pharmaceutical Group Scholarship
 - *2019* Tsinghua Friends - Oriental Yide Scholarship
 - *2017* Freshman Second Class Scholarship
+
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2021.09 - present*, PhD student: School of Biomedical Engineering, Tsinghua University, China.
 - *2017.09 - 2021.06*, Undergraduate student: School of Biomedical Engineering, Tsinghua University, China.
+
 <span class='anchor' id='academic-service'></span>
 # 🎓 Academic Service
 - Journal Reviewer: Medicine in Novel Technology and Devices; BioMedical Engineering OnLine; Scientific Reports.
