@@ -153,16 +153,17 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-
     *IEEE International Ultrasonics Symposium (IUS) 2022 (Oral)*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* National Scholarship, Ministry of Education of P.R. China
+- *2023* Tsinghua Friends-Chaozhou Talent Scholarship (First Class)
+- *2023* IEEE International Ultrasonics Symposium (IUS) Student Travel Grant (\$700)
+- *2022* Huiyan Talent First Class Scholarship
+- *2020* Tsinghua Friends - Guangzhou Pharmaceutical Group Scholarship
+- *2019* Tsinghua Friends - Oriental Yide Scholarship
+- *2017* Freshman Second Class Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - present*, PhD student: School of Biomedical Engineering, Tsinghua University, China.
+- *2017.09 - 2021.06*, Undergraduate student: School of Biomedical Engineering, Tsinghua University, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎓 Academic Service
+- Journal Reviewer: Medicine in Novel Technology and Devices; BioMedical Engineering OnLine; Scientific Reports.
