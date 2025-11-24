@@ -211,4 +211,4 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghu
 
 <span class='anchor' id='academic-service'></span>
 # 🎓 Academic Service
-- Journal Reviewer: Medicine in Novel Technology and Devices; BioMedical Engineering OnLine; Scientific Reports.
+- Journal Reviewer: IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control; Medicine in Novel Technology and Devices; BioMedical Engineering OnLine; Scientific Reports.
