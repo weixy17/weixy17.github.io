@@ -52,61 +52,61 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghu
   
     *Journal of Ultrasound in Medicine 2025*
 
-- [Simultaneous grading diagnosis of liver fibrosis, inflammation, and steatosis using multimodal quantitative ultrasound and artificial intelligence framework](https://doi.org/10.1007/s11517-024-03159-z)
+- 5. [Simultaneous grading diagnosis of liver fibrosis, inflammation, and steatosis using multimodal quantitative ultrasound and artificial intelligence framework](https://doi.org/10.1007/s11517-024-03159-z)
 
     **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Yuanyuan Wang#, Lianshuang Wang#, Mengze Gao, Qiong He, Yao Zhang\*, Jianwen Luo\*
   
     *Medical & Biological Engineering & Computing 2024*
 
-- [Masked Cross-domain Self-supervised Deep Learning Framework for Photoacoustic Computed Tomography Reconstruction](https://doi.org/10.1016/j.neunet.2024.106515)
+- 6. [Masked Cross-domain Self-supervised Deep Learning Framework for Photoacoustic Computed Tomography Reconstruction](https://doi.org/10.1016/j.neunet.2024.106515)
 
     Hengrong Lan, Lijie Huang, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Zhiqiang Li, Jing Lv, Cheng Ma, Liming Nie, Jianwen Luo\*
 
     *Neural Networks 2024*
 
-- [Deep Power-aware Tunable Weighting for Ultrasound Microvascular Imaging](https://doi.org/10.1109/TUFFC.2024.3488729)
+- 7. [Deep Power-aware Tunable Weighting for Ultrasound Microvascular Imaging](https://doi.org/10.1109/TUFFC.2024.3488729)
 
     Hengrong Lan#, Lijie Huang#, Yadan Wang, Rui Wang, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Qiong He, Jianwen Luo\*
 
     *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2024*
 
-- [Knowledge Fused Latent Representation From Lung Ultrasound Examination for COVID-19 Pneumonia Severity Assessment](https://doi.org/10.1016/j.ultras.2024.107409)
+- 8. [Knowledge Fused Latent Representation From Lung Ultrasound Examination for COVID-19 Pneumonia Severity Assessment](https://doi.org/10.1016/j.ultras.2024.107409)
 
     Zhiqiang Li#, Xueping Yang#, Hengrong Lan, Mixue Wang, Lijie Huang, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Gangqiao Xie, Rui Wang, Jing Yu, Qiong He, Yao Zhang\*, Jianwen Luo\*
 
     *Ultrasonics 2024*
 
-- [High-Quality Ultrafast Power Doppler Imaging Based on Spatial Angular Coherence Factor](https://doi.org/10.1109/TUFFC.2023.3253257)
+- 9. [High-Quality Ultrafast Power Doppler Imaging Based on Spatial Angular Coherence Factor](https://doi.org/10.1109/TUFFC.2023.3253257)
 
     Lijie Huang#, Yadan Wang#, Rui Wang, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Qiong He, Chichao Zheng, Hu Peng, Jianwen Luo\*
 
     *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2023*
 
-- [Convolutional Neural Network-Based Speckle Tracking for Ultrasound Strain Elastography: An Unsupervised Learning Approach](https://doi.org/10.1109/TUFFC.2023.3243539)
+- 10. [Convolutional Neural Network-Based Speckle Tracking for Ultrasound Strain Elastography: An Unsupervised Learning Approach](https://doi.org/10.1109/TUFFC.2023.3243539)
 
     Shuojie Wen, Bo Peng\*, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Jianwen Luo, Jingfeng Jiang\*
 
     *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2023*
 
-- [Improved Ultrafast Power Doppler Imaging Using United Spatial–Angular Adaptive Scaling Wiener Postfilter](https://doi.org/10.1109/TUFFC.2023.3297571)
+- 11. [Improved Ultrafast Power Doppler Imaging Using United Spatial–Angular Adaptive Scaling Wiener Postfilter](https://doi.org/10.1109/TUFFC.2023.3297571)
 
     Yadan Wang#, Lijie Huang#, Rui Wang, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Chichao Zheng, Hu Peng, Jianwen Luo\*
 
     *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2023*
 
-- [Improved Ultrafast Power Doppler Imaging by Using Spatiotemporal Non-Local Means Filtering](https://doi.org/10.1109/TUFFC.2022.3158611)
+- 12. [Improved Ultrafast Power Doppler Imaging by Using Spatiotemporal Non-Local Means Filtering](https://doi.org/10.1109/TUFFC.2022.3158611)
 
     Lijie Huang, Jingke Zhang, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Linkai Jing, Qiong He, Xia Xie, Guihuai Wang, Jianwen Luo\*
 
     *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2022*
 
-- [Artificial Intelligence-based Ultrasound Imaging Technologies for Hepatic Diseases](https://doi.org/10.1016/j.iliver.2022.11.001)
+- 13. [Artificial Intelligence-based Ultrasound Imaging Technologies for Hepatic Diseases](https://doi.org/10.1016/j.iliver.2022.11.001)
 
     Longfei Ma#, Rui Wang#, Qiong He, Lijie Huang, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Xu Lu, Yanan Du, Jianwen Luo\*, Hongen Liao\*
 
     *iLIVER 2022*
 
-- [Influence of Key Parameters on Motion Artifacts in Lateral Strain Estimation with Spatial Angular Compounding](https://doi.org/10.1016/j.ultras.2022.106799)
+- 14. [Influence of Key Parameters on Motion Artifacts in Lateral Strain Estimation with Spatial Angular Compounding](https://doi.org/10.1016/j.ultras.2022.106799)
 
     Yuanyuan Wang, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Zonghui Pan, Lijie Huang, Qiong He, Jianwen Luo\*
 
@@ -114,38 +114,38 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghu
 
 
 
-<span style="color: black;font-size: 1.3em; font-weight: bold;">Conference Proceedings</span>
-- [A Pyramidal Optical Flow Method Based on Dense Sift Feature Maps for Motion Correction in Ultrafast Power Doppler Imaging](https://doi.org/10.1109/ISBI56570.2024.10635245)
+<span style="color: black;font-size: 1.3em; font-weight: bold;">First-author Conference Proceedings</span>
+- 1. [A Pyramidal Optical Flow Method Based on Dense Sift Feature Maps for Motion Correction in Ultrafast Power Doppler Imaging](https://doi.org/10.1109/ISBI56570.2024.10635245)
 
     **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Lijie Huang, Hengrong Lan, Jianwen Luo\*
   
     *IEEE International Symposium on Biomedical Imaging (ISBI) 2024*
 
-- [Unsupervised Structure-Aware Cascaded Recurrent Network Based Nonrigid Motion Correction for Ultrafast Power Doppler Imaging](https://doi.org/10.1109/ISBI56570.2024.10635348)
+- 2. [Unsupervised Structure-Aware Cascaded Recurrent Network Based Nonrigid Motion Correction for Ultrafast Power Doppler Imaging](https://doi.org/10.1109/ISBI56570.2024.10635348)
 
     **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Rui Wang#, Lijie Huang#, Jianwen Luo\*
   
     *IEEE International Symposium on Biomedical Imaging (ISBI) 2024*
 
-- [Intelligent Grading of Liver Fibrosis, Inflammation and Steatosis Using Handcrafted and Deep Features From Multimodal Ultrasound Data](https://doi.org/10.1109/IUS51837.2023.10308093)
+- 3. [Intelligent Grading of Liver Fibrosis, Inflammation and Steatosis Using Handcrafted and Deep Features From Multimodal Ultrasound Data](https://doi.org/10.1109/IUS51837.2023.10308093)
 
     **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Lianshuang Wang#, Yuanyuan Wang, Lijie Huang, Qiong He, Yao Zhang\*, Jianwen Luo\*
   
     *IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)*
 
-- [Exploration of Cerebral Microvascular Development in Preterm Neonates Using Ultrafast Power Doppler Imaging](https://doi.org/10.1109/IUS51837.2023.10306587)
+- 4. [Exploration of Cerebral Microvascular Development in Preterm Neonates Using Ultrafast Power Doppler Imaging](https://doi.org/10.1109/IUS51837.2023.10306587)
 
     Lijie Huang#, Yunfeng Liu#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Xinlin Hou, Rui Wang, Xiaomei Tong, Jianwen Luo\*
   
     *IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)*
 
-- [Multi-Modal Features for Intelligent Differential Diagnosis of Solitary Pulmonary Tumors by Using Endobronchial Ultrasonography Images](https://doi.org/10.1109/IUS51837.2023.10308290)
+- 5. [Multi-Modal Features for Intelligent Differential Diagnosis of Solitary Pulmonary Tumors by Using Endobronchial Ultrasonography Images](https://doi.org/10.1109/IUS51837.2023.10308290)
 
     Zhe Chen#, Jiaxin Feng#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Qiong, He, Shiyue Li, Changhao Zhong\*, Jianwen Luo\*
   
     *IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)*
 
-- [Ultrafast Power Doppler Imaging of Human Newborn with Periventricular Venous Infarction: A Pilot Study](https://doi.org/10.1109/IUS54386.2022.9958422)
+- 6. [Ultrafast Power Doppler Imaging of Human Newborn with Periventricular Venous Infarction: A Pilot Study](https://doi.org/10.1109/IUS54386.2022.9958422)
 
     Lijie Huang#, Yunfeng Liu#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Xinlin Hou, Qiong, He, Xiaomei Tong, Jianwen Luo\*
   
@@ -159,7 +159,7 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghu
 - *2022* Huiyan Talent First Class Scholarship
 - *2020* Tsinghua Friends - Guangzhou Pharmaceutical Group Scholarship
 - *2019* Tsinghua Friends - Oriental Yide Scholarship
-- *2017* Freshman Second Class Scholarship
+- *2017* Freshman Second Class Scholarship (Top 10 among 860,000 candidates in the Nationwide Unified Examination for Admissions to General Universities and Colleges)
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
