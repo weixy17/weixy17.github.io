@@ -143,41 +143,56 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghu
 
 
 <span style="color: black;font-size: 1.3em; font-weight: bold;">First-author Conference Proceedings</span>
-- [A Pyramidal Optical Flow Method Based on Dense Sift Feature Maps for Motion Correction in Ultrafast Power Doppler Imaging](https://doi.org/10.1109/ISBI56570.2024.10635245)
 
-    **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Lijie Huang, Hengrong Lan, Jianwen Luo\*
-  
-    *IEEE International Symposium on Biomedical Imaging (ISBI) 2024*
+<ol style="color: black; padding-left: 20px;">
+  <li style="margin-bottom: 20px;">
+    <a href="https://doi.org/10.1109/ISBI56570.2024.10635245">A Pyramidal Optical Flow Method Based on Dense Sift Feature Maps for Motion Correction in Ultrafast Power Doppler Imaging</a>
+    <br>
+    <strong style="color: black; font-weight: bold;">Xingyue Wei</strong>, Lijie Huang, Hengrong Lan, Jianwen Luo*
+    <br>
+    <em>IEEE International Symposium on Biomedical Imaging (ISBI) 2024</em>
+  </li>
 
-- [Unsupervised Structure-Aware Cascaded Recurrent Network Based Nonrigid Motion Correction for Ultrafast Power Doppler Imaging](https://doi.org/10.1109/ISBI56570.2024.10635348)
+  <li style="margin-bottom: 20px;">
+    <a href="https://doi.org/10.1109/ISBI56570.2024.10635348">Unsupervised Structure-Aware Cascaded Recurrent Network Based Nonrigid Motion Correction for Ultrafast Power Doppler Imaging</a>
+    <br>
+    <strong style="color: black; font-weight: bold;">Xingyue Wei#</strong>, Rui Wang#, Lijie Huang#, Jianwen Luo*
+    <br>
+    <em>IEEE International Symposium on Biomedical Imaging (ISBI) 2024</em>
+  </li>
 
-    **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Rui Wang#, Lijie Huang#, Jianwen Luo\*
-  
-    *IEEE International Symposium on Biomedical Imaging (ISBI) 2024*
+  <li style="margin-bottom: 20px;">
+    <a href="https://doi.org/10.1109/IUS51837.2023.10308093">Intelligent Grading of Liver Fibrosis, Inflammation and Steatosis Using Handcrafted and Deep Features From Multimodal Ultrasound Data</a>
+    <br>
+    <strong style="color: black; font-weight: bold;">Xingyue Wei#</strong>, Lianshuang Wang#, Yuanyuan Wang, Lijie Huang, Qiong He, Yao Zhang*, Jianwen Luo*
+    <br>
+    <em>IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)</em>
+  </li>
 
-- [Intelligent Grading of Liver Fibrosis, Inflammation and Steatosis Using Handcrafted and Deep Features From Multimodal Ultrasound Data](https://doi.org/10.1109/IUS51837.2023.10308093)
+  <li style="margin-bottom: 20px;">
+    <a href="https://doi.org/10.1109/IUS51837.2023.10306587">Exploration of Cerebral Microvascular Development in Preterm Neonates Using Ultrafast Power Doppler Imaging</a>
+    <br>
+    Lijie Huang#, Yunfeng Liu#, <strong style="color: black; font-weight: bold;">Xingyue Wei#</strong>, Xinlin Hou, Rui Wang, Xiaomei Tong, Jianwen Luo*
+    <br>
+    <em>IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)</em>
+  </li>
 
-    **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Lianshuang Wang#, Yuanyuan Wang, Lijie Huang, Qiong He, Yao Zhang\*, Jianwen Luo\*
-  
-    *IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)*
+  <li style="margin-bottom: 20px;">
+    <a href="https://doi.org/10.1109/IUS51837.2023.10308290">Multi-Modal Features for Intelligent Differential Diagnosis of Solitary Pulmonary Tumors by Using Endobronchial Ultrasonography Images</a>
+    <br>
+    Zhe Chen#, Jiaxin Feng#, <strong style="color: black; font-weight: bold;">Xingyue Wei#</strong>, Qiong, He, Shiyue Li, Changhao Zhong*, Jianwen Luo*
+    <br>
+    <em>IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)</em>
+  </li>
 
-- [Exploration of Cerebral Microvascular Development in Preterm Neonates Using Ultrafast Power Doppler Imaging](https://doi.org/10.1109/IUS51837.2023.10306587)
-
-    Lijie Huang#, Yunfeng Liu#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Xinlin Hou, Rui Wang, Xiaomei Tong, Jianwen Luo\*
-  
-    *IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)*
-
-- [Multi-Modal Features for Intelligent Differential Diagnosis of Solitary Pulmonary Tumors by Using Endobronchial Ultrasonography Images](https://doi.org/10.1109/IUS51837.2023.10308290)
-
-    Zhe Chen#, Jiaxin Feng#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Qiong, He, Shiyue Li, Changhao Zhong\*, Jianwen Luo\*
-  
-    *IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)*
-
-- [Ultrafast Power Doppler Imaging of Human Newborn with Periventricular Venous Infarction: A Pilot Study](https://doi.org/10.1109/IUS54386.2022.9958422)
-
-    Lijie Huang#, Yunfeng Liu#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Xinlin Hou, Qiong, He, Xiaomei Tong, Jianwen Luo\*
-  
-    *IEEE International Ultrasonics Symposium (IUS) 2022 (Oral)*
+  <li style="margin-bottom: 20px;">
+    <a href="https://doi.org/10.1109/IUS54386.2022.9958422">Ultrafast Power Doppler Imaging of Human Newborn with Periventricular Venous Infarction: A Pilot Study</a>
+    <br>
+    Lijie Huang#, Yunfeng Liu#, <strong style="color: black; font-weight: bold;">Xingyue Wei#</strong>, Xinlin Hou, Qiong, He, Xiaomei Tong, Jianwen Luo*
+    <br>
+    <em>IEEE International Ultrasonics Symposium (IUS) 2022 (Oral)</em>
+  </li>
+</ol>
 
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
