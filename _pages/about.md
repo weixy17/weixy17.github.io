@@ -202,7 +202,8 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghu
 - *2022* Huiyan Talent First Class Scholarship
 - *2020* Tsinghua Friends - Guangzhou Pharmaceutical Group Scholarship
 - *2019* Tsinghua Friends - Oriental Yide Scholarship
-- *2017* Freshman Second Class Scholarship (Top 10 among 860,000 candidates in the Nationwide Unified Examination for Admissions to General Universities and Colleges)
+- *2017* Freshman Second Class Scholarship
+    (Top 10 among 860,000 candidates in the Nationwide Unified Examination for Admissions to General Universities and Colleges)
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
